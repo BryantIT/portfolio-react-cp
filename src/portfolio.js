@@ -138,34 +138,26 @@ const workExperiences = {
   experience: [
     {
       role: "Software Engineer",
-      company: "Clever Programmer",
-      companylogo: require("./assets/images/cpLogo.png"),
-      date: "September 2020 – Present",
+      company: "KochaSoft Inc",
+      companylogo: require("./assets/images/kochasoft.jpg"),
+      date: "August 2020 – January 2022",
       desc:
-        "Changing lives of developers one line of code at a time.",
+        "Bringing virtual learning to YMCA",
       descBullets: [
-        "Custom building applications",
-        "Coaching",
-        "Streaming live on YouTube",
-        "Creating tutorials"
+        "Working remotely with a world wide team.",
+        "Front End development utilizing React/Next.js, Material UI and GraphQL for api queries.",
+        "Agile Environment.",
+        "Developed an LMS for YMCA Quebec."
       ]
     },
     {
-      role: "Product Owner (PSD2)",
-      company: "Erste Bank",
-      companylogo: require("./assets/images/ersteLogo.jpg"),
-      date: "July 2019 – September 2020",
+      role: "Varsity Coach",
+      company: "Microsoft TEALS",
+      companylogo: require("./assets/images/TEALSlogo.png"),
+      date: "2020 School Year",
       desc:
-        "I lead software developers building the API for the bank in order to fulfil the PSD2 regulation requirements."
+        "Teaching Computer Science and programming fundamentals to high schools with no traditional CS classes."
     },
-    {
-      role: "Junior Information Security & Systems Representative",
-      company: "Vodafone",
-      companylogo: require("./assets/images/vodafoneLogo.png"),
-      date: "November 2018 – July 2019",
-      desc:
-        "I've conducted internal audit making sure the organization is compliant with the GDPR."
-    }
   ]
 };
 
@@ -296,7 +288,7 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -335,8 +327,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "(323) 768 0674",
-  email_address: "contact@davidrakosi.com"
+  number: "(270) 752 0842",
+  email_address: "brich@codeninja.life"
 };
 
 // Twitter Section
