@@ -9,13 +9,13 @@ const illustration = {
 };
 
 const greeting = {
-  username: "David Rakosi",
-  title: "Hi all, I'm David",
+  username: "Bryant Richards",
+  title: "Greetings! I'm Bryant",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of designing and building Web and Mobile applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."
+    "A dedicated life long learner and educator who thrives on solving unique challenges and sees errors as a chance to learn something new.  I currently work with Ruby / Ruby on Rails / JavaScript / React / Next / Node / graphQl and many others."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
+    "https://docs.google.com/document/d/1bHdsiXvRG9702FD2_AxN4PRWigCesDbInPyiSoYf5dA/edit?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
