@@ -38,7 +38,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "FULL TIME DEVELOPER, PART TIME NINJA",
   skills: [
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
@@ -46,6 +46,9 @@ const skillsSection = {
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
       "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+    ),
+    emoji(
+      "⚡ API wizard"
     )
   ],
 
@@ -62,10 +65,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-    {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
@@ -78,10 +77,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
     },
@@ -92,6 +87,10 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
+    },
+    {
+      skillName: "postgressQL",
+      fontAwesomeClassname: "fas fa-database"
     }
   ],
   display: true // Set false to hide this section, defaults to true
